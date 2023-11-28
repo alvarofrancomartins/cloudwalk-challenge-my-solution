@@ -4,7 +4,7 @@ This is my solution for this challenge.
 
 1. Data analysis for task **3.1** is in the `CloudWalk_Data_Analysis_(Checkout).ipynb` notebook.
 2. Data analysis for task **3.2** is in the `CloudWalk_Data_Analysis_(Transactions).ipynb` notebook. 
-3. My thought process for creating the simple Monitoring Alert System can be see in the `Monitoring Alert System Development.ipynb` notebook. 
+3. My thought process for creating the simple Monitoring Alert System can be seen in the `Monitoring Alert System Development.ipynb` notebook. 
 
 To run the simulation of the Monitoring Alert System, you can simply run
 
